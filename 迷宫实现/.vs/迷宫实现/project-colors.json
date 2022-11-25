@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d78c6006-cc00-479b-8281-a3a99994c309": {
+      "ProjectGuid": "d78c6006-cc00-479b-8281-a3a99994c309",
+      "DisplayName": "迷宫实现",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

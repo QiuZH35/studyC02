@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7aa76141-0dd9-4265-a1ff-b549a2f4d3fe": {
+      "ProjectGuid": "7aa76141-0dd9-4265-a1ff-b549a2f4d3fe",
+      "DisplayName": "二分查找法以及拉格朗日插值查找法",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

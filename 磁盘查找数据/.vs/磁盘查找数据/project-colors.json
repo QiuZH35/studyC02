@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e6ae19b-c156-40ca-a2cf-184c3be88bcb": {
+      "ProjectGuid": "2e6ae19b-c156-40ca-a2cf-184c3be88bcb",
+      "DisplayName": "磁盘查找数据",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
